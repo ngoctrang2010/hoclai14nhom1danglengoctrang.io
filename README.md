@@ -19,8 +19,12 @@ Xin chào! Tôi là **Đặng Lê Ngọc Trạng**, một sinh viên năm 4 trư
 ## 🛠️ Kỹ Năng
 
 - **Ngôn ngữ lập trình**: C#, Flutter, Java  
+  ## 🛠️ Kỹ Năng
+
+- **Ngôn ngữ lập trình**: C#, Java, Flutter  
   ![Language Stats](https://img.shields.io/badge/Code-C%23%2050%25%20Java%2030%25%20Flutter%2020%25-blue)
-  ![Language Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%23%22%2C%22Java%22%2C%22Flutter%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C30%2C20%5D%2C%22backgroundColor%22%3A%5B%22%234CAF50%22%2C%22%232196F3%22%2C%22%23FFC107%22%5D%7D%5D%7D%7D)
+
+  ![Language Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%23%22%2C%22Java%22%2C%22Flutter%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C30%2C20%5D%2C%22backgroundColor%22%3A%5B%22%234CAF50%22%2C%22%232196F3%22%2C%22%23FFC107%22%5D%7D%5D%7D%7D)
 
 - **Frameworks**: .Net Core  
 - **Công cụ**: Git, Visual Studio 2022, MS SQL Server
