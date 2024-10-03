@@ -5,7 +5,7 @@ Xin chào! Tôi là Đặng Lê Ngọc Trạng, một sinh viên năm 4 trườn
 - 💬 Lĩnh vực: ** Back-end .Net developer**
 - 🌍 Kết nối với tôi:
     [Facebook](https://www.facebook.com/profile.php?id=100015213436330)
-    [Email] **dlntranga3@gmail.com**
+    Email: **dlntranga3@gmail.com**
 
 ## 🔥 Dự án nổi bật
 
@@ -17,6 +17,7 @@ Xin chào! Tôi là Đặng Lê Ngọc Trạng, một sinh viên năm 4 trườn
 
 ## 🛠️ Kỹ Năng
 
-- **Ngôn ngữ lập trình**: C#, Flutter, Java 
+- **Ngôn ngữ lập trình**: C#, Flutter, Java
+![Language Stats](https://img.shields.io/badge/Code-C%23%2050%25%20Java%2030%25%20Flutter%2020%25-blue)
 - **Frameworks**: .Net Core
 - **Công cụ**: Git, Visual Studio 2022, MS SQL Server
